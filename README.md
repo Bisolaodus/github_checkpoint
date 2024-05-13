@@ -6,7 +6,6 @@
 <i>1. Create a folder called learn_git and change directory into it
 </p>
 <br>
-<p align="center">
   <div style="position: relative;
     display: flex;
     justify-content: center;
@@ -15,9 +14,8 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://i.imgur.com/LYvLblh.jpeg" title="Logo" width="500"/>
+  <img src="https://i.imgur.com/LYvLblh.jpeg"/>
   </div>
-</p>
 
 <br>
 <br>
