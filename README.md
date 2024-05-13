@@ -1,27 +1,28 @@
 # github_checkpoint
 
 <p align="center">
-  <img src="https://i.imgur.com/LYvLblh.jpeg" title="Logo" width="400"/>
+  
 </p>
 <p align="center">
-  <b>
-    Drain
-  </b>
   <br/>
 <i>1. Create a folder called learn_git and change directory into it
 </p>
+<br>
+<img src="https://i.imgur.com/LYvLblh.jpeg" title="Logo" width="400"/>
 
-
+<br>
+<br>
 <p align="center">
-  <img src="https://i.imgur.com/Fdct9Bp.jpeg" title="Logo" width="400"/>
+  
 </p>
 <p align="center">
-  <b>
-    Drain
-  </b>
-  <br/>
 <i>2. Create a file called third.txt
 </p>
+<br>
+<img src="https://i.imgur.com/Fdct9Bp.jpeg" title="Logo" width="400"/>
+
+<br>
+<br>
 
 
 <p align="center">
