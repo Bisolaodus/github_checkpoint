@@ -13,7 +13,9 @@
     background-color: #000;
     min-height: 240px;
     border-radius: 6px 6px 0 0;
-    overflow: hidden;">
+    overflow: hidden;
+    margin: 0;
+    padding: 0;">
   <img src="https://i.imgur.com/LYvLblh.jpeg"/>
   </div>
 
