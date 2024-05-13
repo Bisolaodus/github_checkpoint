@@ -6,10 +6,7 @@
 <i>1. Create a folder called learn_git and change directory into it
 </p>
 <br>
-  <div style="position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);">
+ 
   <div style="position: relative;
     display: flex;
     justify-content: center;
@@ -19,10 +16,12 @@
     border-radius: 6px 6px 0 0;
     overflow: hidden;
     margin: 0;
-    padding: 0;">
-  <img src="https://i.imgur.com/LYvLblh.jpeg" style="width: 100%; height: auto;"/>
+    padding: 0;
+    top: 50%;
+  left: 50%;">
+  <img src="https://i.imgur.com/LYvLblh.jpeg"/>
   </div>
-  </div>
+  
 
 <br>
 <br>
