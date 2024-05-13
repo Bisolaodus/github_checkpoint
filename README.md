@@ -1,4 +1,4 @@
-<p align="center" width="50"><strong># github_checkpoint</strong></p>
+<p style="font-size: 1.2em;><strong>Github Checkpoint</strong></p>
 <br>
 
 <p>
@@ -243,6 +243,44 @@
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
   <img src="https://imgur.com/7j65SK4.jpeg"/>
+</div>
+
+<br>
+<br>
+
+<p>
+  <br>
+<i>14. Change your global settings to core.pager=cat
+</p>
+<br>
+<div style="position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    min-height: 240px;
+    border-radius: 6px 6px 0 0;
+    overflow: hidden;">
+  <img src="https://imgur.com/4j5DdEe.jpeg"/>
+</div>
+
+<br>
+<br>
+
+<p>
+  <br>
+<i>15. List all the global configurations for Git on your machine
+</p>
+<br>
+<div style="position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    min-height: 240px;
+    border-radius: 6px 6px 0 0;
+    overflow: hidden;">
+  <img src="https://imgur.com/SAJDimh.jpeg"/>
 </div>
 
 <br>
