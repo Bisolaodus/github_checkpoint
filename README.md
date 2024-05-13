@@ -15,10 +15,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;
-    margin: 0;
-    padding: 0;
-    top: 50%;
-  left: 50%;">
+    margin: 0 auto;">
   <img src="https://i.imgur.com/LYvLblh.jpeg"/>
   </div>
   
