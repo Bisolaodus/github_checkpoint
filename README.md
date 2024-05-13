@@ -1,4 +1,4 @@
-<p style="font-size: 1.2em;><strong>Github Checkpoint</strong></p>
+<p><strong>Github Checkpoint</strong></p>
 <br>
 
 <p>
