@@ -7,7 +7,16 @@
 </p>
 <br>
 <p align="center">
+  <div style="position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    min-height: 240px;
+    border-radius: 6px 6px 0 0;
+    overflow: hidden;">
   <img src="https://i.imgur.com/LYvLblh.jpeg" title="Logo" width="500"/>
+  </div>
 </p>
 
 <br>
