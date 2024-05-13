@@ -20,7 +20,7 @@
     overflow: hidden;
     margin: 0;
     padding: 0;">
-  <img src="https://i.imgur.com/LYvLblh.jpeg"/>
+  <img src="https://i.imgur.com/LYvLblh.jpeg" style="width: 100%; height: auto;"/>
   </div>
   </div>
 
