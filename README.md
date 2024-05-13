@@ -52,7 +52,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/d45UH4b.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/d45UH4b.jpeg"/>
 </div>
 
 <br>
@@ -71,7 +71,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/dz2PfuI.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/dz2PfuI.jpeg"/>
 </div>
 
 <br>
@@ -90,7 +90,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/EUMAYFz.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/EUMAYFz.jpeg"/>
 </div>
 
 <br>
@@ -109,7 +109,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/nIk0buH.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/nIk0buH.jpeg"/>
 </div>
 
 <br>
@@ -128,7 +128,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/7Ql7R89.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/7Ql7R89.jpeg"/>
 </div>
 
 <br>
@@ -147,7 +147,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/33VUKRl.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/33VUKRl.jpeg"/>
 </div>
 
 <br>
@@ -166,7 +166,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/hUpShOu.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/hUpShOu.jpeg"/>
 </div>
 
 <br>
@@ -185,7 +185,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/AmxewBi.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/AmxewBi.jpeg"/>
 </div>
 
 <br>
@@ -204,7 +204,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/q4C2kEZ.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/q4C2kEZ.jpeg"/>
 </div>
 
 <br>
@@ -223,7 +223,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/gUmZk94.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/gUmZk94.jpeg"/>
 </div>
 
 <br>
@@ -242,7 +242,7 @@
     min-height: 240px;
     border-radius: 6px 6px 0 0;
     overflow: hidden;">
-  <img src="https://imgur.com/7j65SK4.jpeg" title="Logo" width="500"/>
+  <img src="https://imgur.com/7j65SK4.jpeg"/>
 </div>
 
 <br>
