@@ -1,7 +1,7 @@
 <p align="center"># github_checkpoint</p>
 
 
-<p align="center">
+<p>
   <br>
 <i>1. Create a folder called learn_git and change directory into it
 </p>
